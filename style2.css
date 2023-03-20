@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.loginForm {
+    border: 0.5px solid lightgrey;
+    border-radius: 20px;
+    padding: 50px;
+    width: 170px;
+    height: auto;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+
+button{
+    font-size: smaller;
+    background-color: aquamarine;
+    color:black;
+    border: 0px;
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+    align-self: center;    
+}
+
+
+.loginImg{
+    width: 170px;
+}
